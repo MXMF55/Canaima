@@ -1,0 +1,10 @@
+#Mobile Banks Updates
+
+"Gervill 1.0 Bank.sf2"
+
+Specs
+
+1.0 Unoptimized source bank
+1.1 Optimized source bank with measure of 80%
+2.0 Adds the CC#7 to attenuation modulator
+
