@@ -1,6 +1,6 @@
 # Wavetable-Developer-Kit
 
-Mobile Phones Soundbanks for BASSMIDI
+Mobile Phones Soundbanks for Shakra
 
 Here you can get all for make mobile SF2 and build of s30
 
